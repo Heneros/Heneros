@@ -1,8 +1,11 @@
 ### Hi, there 👋
 
-Full-Stack Developer (JS, PHP)
+Full-Stack Developer 
 My projects:
+
+
 Short text-game:
+
 https://text-adventure-game-cy47.onrender.com/1
 
 <!--
