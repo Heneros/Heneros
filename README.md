@@ -1,6 +1,10 @@
 ### Hi, there 👋
 
-Full-Stack (JS, PHP) 
+Full-Stack Developer (JS, PHP)
+My projects:
+Short text-game:
+https://text-adventure-game-cy47.onrender.com/1
+
 <!--
 **Heneros/Heneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
