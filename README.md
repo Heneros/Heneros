@@ -1,6 +1,7 @@
 ### Hi, there 👋
 
-Full-Stack Developer 
+Full-Stack(Node.JS and React) Developer. Ex WordPress(PHP+JS) dev.
+
 My projects:
 
 
