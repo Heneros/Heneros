@@ -9,6 +9,9 @@ Short text-game:
 
 https://text-adventure-game-cy47.onrender.com/1
 
+MERN(news site).  
+https://backend-rest-six.vercel.app
+
 <!--
 **Heneros/Heneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
