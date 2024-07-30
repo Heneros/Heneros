@@ -13,7 +13,7 @@ Code project(with README): https://github.com/Heneros/mern-project
 
 
 
-### Ecommerce app(MERN). Paypal. With personal account.
+### Ecommerce app(MERN). Paypal. RESTful. With personal account.
 
 https://nodejs-shop-react.vercel.app
 
