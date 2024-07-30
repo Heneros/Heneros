@@ -4,13 +4,32 @@ Full-Stack(Node.JS and React) Developer. Ex WordPress(PHP+JS) dev.
 
 My projects:
 
+News site (MERN). With roles. RESTful
+
+https://backend-rest-six.vercel.app
+
+Code project(with README): https://github.com/Heneros/mern-project
+
+
+
+Ecommerce app(MERN). Paypal. With personal account.
+
+https://nodejs-shop-react.vercel.app
+
+Code project(with README): https://github.com/Heneros/shop-app
+
+
+
+Task Manager(React + Redux + TS) with localStorage browser.
+
+https://react-tasks-livid.vercel.app/
+
+Code project: https://github.com/Heneros/react-tasks-manager
+
 
 Short text-game:
-
 https://text-adventure-game-cy47.onrender.com/1
 
-MERN(news site).  
-https://backend-rest-six.vercel.app
 
 <!--
 **Heneros/Heneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
