@@ -34,8 +34,8 @@ Code project: https://github.com/Heneros/react-tasks-manager
 ### Short text-game:
 https://text-adventure-game-cy47.onrender.com/1
 
-<div style="display: flex; justify-content: center;">
-<img src="alf_muzyka.gif" alt="gif" width="800" >
+<div style="display: flex; justify-content: center; ">
+<img src="alf_muzyka.gif" alt="gif" width="500" >
 </div>
 
 <!--
