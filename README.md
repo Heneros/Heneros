@@ -2,6 +2,7 @@
 
 Backend Node.js(Nest.js and Express) Developer. 
 
+
 My projects:
 
 ###  News site (MERN). With roles. RESTful
@@ -33,6 +34,9 @@ Code project: https://github.com/Heneros/react-tasks-manager
 ### Short text-game:
 https://text-adventure-game-cy47.onrender.com/1
 
+<div style="display: flex; justify-content: center;">
+<img src="alf_muzyka.gif" alt="gif" width="800" >
+</div>
 
 <!--
 **Heneros/Heneros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
