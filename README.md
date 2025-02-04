@@ -1,6 +1,6 @@
 ### Hi, there 👋
 
-Backend Node.js Developer. 
+Backend Node.js(Nest.js and Express) Developer. 
 
 My projects:
 
