@@ -1,37 +1,54 @@
-
 ### Hi, there 👋
 
-Backend Node.js(Nest.js and Express) Developer. 
+Backend **Node.js** (Nest.js and Express) Developer. 
+
 
 
 My projects:
 
-### Ecommerce app. MERN + socket.io. Docker-Compose. Tests e2e. With documentation on swagger.
+### E-commerce app.
 
-Site: https://mern-project-typescript.vercel.app
+-  **Stack**: MERN (MongoDB, Express, React, Node.js) + Socket.IO
+-  **Deployment**: Docker Compose
+-  **Tests**: E2E (Jest)
+-  **Documentation**: Swagger
 
-Documentation swagger: https://mern-project-typescript.vercel.app/api/v1/docs
+ **Live**: https://mern-project-typescript.vercel.app
 
-Code project(with README): https://github.com/Heneros/mern-project-typescript
+ **Swagger**: https://mern-project-typescript.vercel.app/api/v1/docs
 
----
-
-###  Movie application. Nest.js+PostgreSql(prisma). RestApi and Graphql. Docker-compose. e2e. Documentation on Swagger
-
-Documentation: https://movie-app-tawny-sigma.vercel.app/api
-
-Code project(with README):  https://github.com/Heneros/movie-app
+ **Code**: https://github.com/Heneros/mern-project-typescript
 
 ---
-Right now working on microservice app
 
-Booking App
+### 2. Movie Application
 
-https://github.com/Heneros/microservice-booking
+-  **Stack**: Nest.js + PostgreSQL (Prisma)
+-  **APIs**: REST & GraphQL
+-  **Caching**: Redis
+-  **Deployment**: Docker Compose
+-  **Tests**: E2E (Jest + Supertest)
+-  **Documentation**: Swagger
+
+ **Swagger**: https://movie-app-tawny-sigma.vercel.app/api
+ 
+ **Code**: https://github.com/Heneros/movie-app
 
 
+---
+### 3. Right now working: Microservices Booking App *(WIP)*
+-  **Architecture**: Microservices (Event-driven)
+-  **Framework**: Nest.js
+-  **DB**: Mongodb(Typeorm) and PostgreSQL(Prisma)
+-  **Code**: https://github.com/Heneros/microservice-booking
 
-and Next.js. which included api from Nest.js [this]( https://movie-app-tawny-sigma.vercel.app)  and build in
+---
+### 3. Right now working: Movie App. Next.js *(WIP)*
+which included api from Nest.js [this]( https://movie-app-tawny-sigma.vercel.app) and build 
+Figma design. Also Graphql included
+
+**Code**: https://github.com/Heneros/next-movie
+
 
 <div style="display: flex; justify-content: center; ">
 <img src="alf_muzyka.gif" alt="gif" width="500" >
