@@ -1,10 +1,3 @@
-### Hi, there 👋
-
-Backend Node.js(Nest.js and Express) Developer. 
-
-
-My projects:
-
 
 ### Hi, there 👋
 
