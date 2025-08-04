@@ -5,34 +5,40 @@ Backend Node.js(Nest.js and Express) Developer.
 
 My projects:
 
-###  News site (MERN). With roles. RESTful
 
-https://backend-rest-six.vercel.app
+### Hi, there 👋
 
-Code project(with README): https://github.com/Heneros/mern-project
-
+Backend Node.js(Nest.js and Express) Developer. 
 
 
+My projects:
 
-### Ecommerce app(MERN). Paypal. RESTful. With personal account.
+### Ecommerce app. MERN + socket.io. Docker-Compose. Tests e2e. With documentation on swagger.
 
-https://nodejs-shop-react.vercel.app
+Site: https://mern-project-typescript.vercel.app
 
-Code project(with README): https://github.com/Heneros/shop-app
+Documentation swagger: https://mern-project-typescript.vercel.app/api/v1/docs
+
+Code project(with README): https://github.com/Heneros/mern-project-typescript
+
+---
+
+###  Movie application. Nest.js+PostgreSql(prisma). RestApi and Graphql. Docker-compose. e2e. Documentation on Swagger
+
+Documentation: https://movie-app-tawny-sigma.vercel.app/api
+
+Code project(with README):  https://github.com/Heneros/movie-app
+
+---
+Right now working on microservice app
+
+Booking App
+
+https://github.com/Heneros/microservice-booking
 
 
 
-
-### Task Manager(React + Redux + TS) with localStorage browser.
-
-https://react-tasks-livid.vercel.app/
-
-Code project: https://github.com/Heneros/react-tasks-manager
-
-
-
-### Short text-game:
-https://text-adventure-game-cy47.onrender.com/1
+and Next.js. which included api from Nest.js [this]( https://movie-app-tawny-sigma.vercel.app)  and build in
 
 <div style="display: flex; justify-content: center; ">
 <img src="alf_muzyka.gif" alt="gif" width="500" >
