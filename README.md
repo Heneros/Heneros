@@ -21,7 +21,7 @@ My projects:
 
 ---
 
-### 2. Movie Application
+### . Movie Application
 
 -  **Stack**: Nest.js + PostgreSQL (Prisma)
 -  **APIs**: REST & GraphQL
@@ -36,7 +36,7 @@ My projects:
 
 
 ---
-### 3. Right now working: Microservices Booking App *(WIP)*
+### . Right now working: Microservices Booking App *(WIP)*
 -  **Architecture**: Microservices (Event-driven)
 -  **Framework**: Nest.js
 -  **DB**: Mongodb(Typeorm) and PostgreSQL(Prisma)
