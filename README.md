@@ -21,7 +21,7 @@ My projects:
 
 ---
 
-### . Movie Application
+###  Movie Application
 
 -  **Stack**: Nest.js + PostgreSQL (Prisma)
 -  **APIs**: REST & GraphQL
@@ -36,14 +36,14 @@ My projects:
 
 
 ---
-### . Right now working: Microservices Booking App *(WIP)*
+###  Right now working: Microservices Booking App *(WIP)*
 -  **Architecture**: Microservices (Event-driven)
 -  **Framework**: Nest.js
 -  **DB**: Mongodb(Typeorm) and PostgreSQL(Prisma)
 -  **Code**: https://github.com/Heneros/microservice-booking
 
 ---
-### 3. Right now working: Movie App. Next.js *(WIP)*
+###  Right now working: Movie App. Next.js *(WIP)*
 which included api from Nest.js [this]( https://movie-app-tawny-sigma.vercel.app) and build 
 Figma design. Also Graphql included
 
