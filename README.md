@@ -13,9 +13,9 @@ My projects:
 -  **Tests**: E2E (Jest)
 -  **Documentation**: Swagger
 
- **Live**: https://mern-project-typescript.vercel.app
+ **Live**: https://mern-villa.onrender.com
 
- **Swagger**: https://mern-project-typescript.vercel.app/api/v1/docs
+ **Swagger**: https://mern-villa.onrender.com/api/v1/docs
 
  **Code**: https://github.com/Heneros/mern-project-typescript
 
